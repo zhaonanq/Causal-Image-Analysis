@@ -29,4 +29,5 @@ ml load R
 
 ## Miscellaneous
 count number of files: ```ls -lR /path/to/dir/*.jpg | wc -l```
+
 zip manhattan plots: ```zip pancreas.zip manhattan_pancreas*```
