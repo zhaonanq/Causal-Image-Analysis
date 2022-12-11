@@ -2,6 +2,8 @@
 
 This probject explores the application of causal inference methods to image classification and prediction tasks in medical applications. More specifically, we are interested in locating the causal components of images that are relevant, in terms of physiology or pathology, when using images to predict kidney or lung diseases, and estimating the causal effect of these components.
  
+ 
+Below are some useful commands when running the code.
 ## Run GWAS
 
 ### load packages
